@@ -1,0 +1,3 @@
+SELECT *
+FROM Banquet
+ORDER BY id

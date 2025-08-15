@@ -1,0 +1,2 @@
+class TerminationException(Exception):
+    pass
